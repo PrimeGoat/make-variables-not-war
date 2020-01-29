@@ -3,7 +3,17 @@
  ******************/
 
 
- 
+const myFirstName = "Denis";
+const myLastName = "Savgir";
+const myBestFriend = "Peter";
+const mySentence = "I am Denis Savgir and my best friend is Peter."
+const myFavoriteNum = 42;
+const myMentalAge = 0;
+const myHeight = 64.25;
+const myFavoriteYear = 2020;
+const mySum = 3 + 1918 + 24 + 1;
+const myProduct = 232 * 43 / 2 + 4;
+const myHeightAndAge = myMentalAge + myHeight; 
 
 
 /*********************************************************************************************************************
